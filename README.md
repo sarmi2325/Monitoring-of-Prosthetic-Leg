@@ -42,5 +42,5 @@ This project aims to **build an IoT-based prosthetic leg monitoring system** tha
 
 ---
 
-## 📷 Photos
-![System Diagram](system_diagram.png)
+
+
